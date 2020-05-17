@@ -1,0 +1,15 @@
+.button{
+background-color: gray;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    width: 100%px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
